@@ -1,7 +1,7 @@
 - 👋 Hi, My Name is Kimbert Bartiquel!
 - 👀 I’m interested in Flutter Development.
 - 🌱 Switched from Android native to flutter, riding the advantages of cross platform development.
-- 📫 Contact me @bartiquelk@gmail.com I am open for work.
+- 📫 Contact me @bartiquelk@gmail.com
 
 
 <!---
