@@ -1,10 +1,7 @@
-- 👋 Hi, My Name is Kimbert Bartiquel!
-- 👀 I’m interested in Flutter Development.
-- 🌱 Switched from Android native to flutter, riding the advantages of cross platform development.
+- 👋 Hi, My Name is Kimbert Bartiquel from the Philippines.
+- 👀 I’m a Mobile App Developer Focused on Flutter Framework.
 - 📫 Contact me @bartiquelk@gmail.com
- <!---
-- ✨ Note: This github account is new
---->
+
 
 <!---
 kbartiquel/kbartiquel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
