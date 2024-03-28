@@ -1,5 +1,5 @@
 - 👋 Hi, My Name is Kimbert Bartiquel from the Philippines.
-- 👀 I’m a Mobile App Developer Focused on Flutter Framework.
+- 👀 I’m a Mobile App Developer.
 - 📫 Contact me @bartiquelk@gmail.com
 
 
